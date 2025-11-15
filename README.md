@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # sentAIent Website Redesign - Production Ready
 
 **Version:** 1.0  
@@ -35,7 +34,3 @@ Complete modern HTML5 website redesign for sentAIent (sentaient.com), an AI firm
 ```
 
 Generated: 2025-11-15 04:59:31Z
-=======
-# sentaient.com-v2.3
-v2.3 from neo
->>>>>>> ed5d7ac0d103c036b8f571fd161cb001e8edb3e0
