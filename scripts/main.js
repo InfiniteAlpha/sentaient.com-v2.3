@@ -1,0 +1,100 @@
+document.addEventListener('DOMContentLoaded', function() {
+    
+    // Tab functionality for industries section
+    const tabButtons = document.querySelectorAll('.tab-button');
+    const tabPanels = document.querySelectorAll('.tab-panel');
+    
+    tabButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            const targetPanel = this.getAttribute('aria-controls');
+            
+            tabButtons.forEach(btn => {
+                btn.classList.remove('active');
+                btn.setAttribute('aria-selected', 'false');
+            });
+            
+            tabPanels.forEach(panel => {
+                panel.classList.remove('active');
+            });
+            
+            this.classList.add('active');
+            this.setAttribute('aria-selected', 'true');
+            document.getElementById(targetPanel).classList.add('active');
+        });
+    });
+    
+    // ROI Calculator
+    const calculateBtn = document.getElementById('calculate-btn');
+    const savingsResult = document.getElementById('savings-result');
+    
+    if (calculateBtn) {
+        calculateBtn.addEventListener('click', function() {
+            const employees = parseInt(document.getElementById('employees').value) || 0;
+            const hourlyCost = parseInt(document.getElementById('hourly-cost').value) || 0;
+            const routineHours = parseInt(document.getElementById('routine-hours').value) || 0;
+            
+            const weeksPerYear = 50;
+            const efficiencyGain = 0.5;
+            
+            const totalWeeklyHours = employees * routineHours;
+            const annualHours = totalWeeklyHours * weeksPerYear;
+            const hoursSaved = annualHours * efficiencyGain;
+            const annualSavings = hoursSaved * hourlyCost;
+            
+            savingsResult.textContent = '$' + annualSavings.toLocaleString();
+        });
+        
+        const inputs = document.querySelectorAll('.roi-calculator input');
+        inputs.forEach(input => {
+            input.addEventListener('input', function() {
+                calculateBtn.click();
+            });
+        });
+    }
+    
+    // Mobile menu toggle
+    const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
+    const mainNav = document.querySelector('.main-nav');
+    
+    if (mobileMenuToggle) {
+        mobileMenuToggle.addEventListener('click', function() {
+            const isExpanded = this.getAttribute('aria-expanded') === 'true';
+            this.setAttribute('aria-expanded', !isExpanded);
+            mainNav.classList.toggle('active');
+        });
+    }
+    
+    // Smooth scroll for anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function(e) {
+            const href = this.getAttribute('href');
+            if (href !== '#' && href !== '#contact-form') {
+                e.preventDefault();
+                const target = document.querySelector(href);
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            }
+        });
+    });
+    
+    // Header scroll effect
+    let lastScroll = 0;
+    const header = document.querySelector('.site-header');
+    
+    window.addEventListener('scroll', function() {
+        const currentScroll = window.pageYOffset;
+        
+        if (currentScroll > 100) {
+            header.style.boxShadow = '0 4px 12px rgba(0, 0, 0, 0.1)';
+        } else {
+            header.style.boxShadow = '0 2px 4px rgba(0, 0, 0, 0.1)';
+        }
+        
+        lastScroll = currentScroll;
+    });
+    
+});

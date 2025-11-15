@@ -1,0 +1,382 @@
+{
+  "timestamp": "2025-11-15T04:46:45+00:00",
+  "html_files": [
+    {
+      "filepath": "/app/sentient_website_redesign_0308/index.html",
+      "filename": "index.html",
+      "seo": {
+        "has_title": true,
+        "title": "sentAIent - Autonomous AI Agents & Digital Solutions",
+        "title_length": 52,
+        "title_optimal": true,
+        "meta_description": "sentAIent - Transform your business with autonomous AI agents, generative chatbots, and AI consulting. Human augmentation, not replacement.",
+        "description_length": 139,
+        "description_optimal": false,
+        "has_viewport": true
+      },
+      "accessibility": {
+        "total_images": 0,
+        "images_with_alt": 0,
+        "images_without_alt": 0,
+        "aria_labels_count": 29,
+        "has_lang": true
+      },
+      "structure": {
+        "h1_count": 1,
+        "heading_hierarchy": [
+          "h1",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3"
+        ],
+        "total_links": 33,
+        "semantic_html": {
+          "has_header": true,
+          "has_nav": true,
+          "has_main": true,
+          "has_footer": true
+        }
+      },
+      "issues": [
+        "WARNING: 2 empty or placeholder links"
+      ]
+    },
+    {
+      "filepath": "/app/sentient_website_redesign_0308/pages/alternate/pricing_alt.html",
+      "filename": "pricing_alt.html",
+      "seo": {
+        "has_title": true,
+        "title": "Pricing & Solutions - sentAIent",
+        "title_length": 31,
+        "title_optimal": false,
+        "meta_description": "sentAIent pricing and service packages. Flexible solutions from project-based to enterprise retainers. Get ROI-focused AI implementations.",
+        "description_length": 138,
+        "description_optimal": false,
+        "has_viewport": true
+      },
+      "accessibility": {
+        "total_images": 0,
+        "images_with_alt": 0,
+        "images_without_alt": 0,
+        "aria_labels_count": 3,
+        "has_lang": true
+      },
+      "structure": {
+        "h1_count": 1,
+        "heading_hierarchy": [
+          "h1",
+          "h2",
+          "h2",
+          "h3",
+          "h4",
+          "h4",
+          "h3",
+          "h4",
+          "h4",
+          "h3"
+        ],
+        "total_links": 20,
+        "semantic_html": {
+          "has_header": true,
+          "has_nav": true,
+          "has_main": true,
+          "has_footer": true
+        }
+      },
+      "issues": []
+    },
+    {
+      "filepath": "/app/sentient_website_redesign_0308/pages/alternate/about_alt.html",
+      "filename": "about_alt.html",
+      "seo": {
+        "has_title": true,
+        "title": "About sentAIent - Human-Centric AI Solutions",
+        "title_length": 44,
+        "title_optimal": false,
+        "meta_description": "Learn about sentAIent's mission to transform businesses through human-centric AI implementation. Autonomous agents that augment, not replace, human capabilities.",
+        "description_length": 161,
+        "description_optimal": false,
+        "has_viewport": true
+      },
+      "accessibility": {
+        "total_images": 0,
+        "images_with_alt": 0,
+        "images_without_alt": 0,
+        "aria_labels_count": 3,
+        "has_lang": true
+      },
+      "structure": {
+        "h1_count": 1,
+        "heading_hierarchy": [
+          "h1",
+          "h2",
+          "h2",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h2"
+        ],
+        "total_links": 17,
+        "semantic_html": {
+          "has_header": true,
+          "has_nav": true,
+          "has_main": true,
+          "has_footer": true
+        }
+      },
+      "issues": []
+    },
+    {
+      "filepath": "/app/sentient_website_redesign_0308/pages/alternate/history_alt.html",
+      "filename": "history_alt.html",
+      "seo": {
+        "has_title": true,
+        "title": "Our History - sentAIent Journey",
+        "title_length": 31,
+        "title_optimal": false,
+        "meta_description": "The sentAIent story: From vision to reality, building human-centric AI solutions that transform businesses.",
+        "description_length": 107,
+        "description_optimal": false,
+        "has_viewport": true
+      },
+      "accessibility": {
+        "total_images": 0,
+        "images_with_alt": 0,
+        "images_without_alt": 0,
+        "aria_labels_count": 7,
+        "has_lang": true
+      },
+      "structure": {
+        "h1_count": 1,
+        "heading_hierarchy": [
+          "h1",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2"
+        ],
+        "total_links": 17,
+        "semantic_html": {
+          "has_header": true,
+          "has_nav": true,
+          "has_main": true,
+          "has_footer": true
+        }
+      },
+      "issues": []
+    },
+    {
+      "filepath": "/app/sentient_website_redesign_0308/pages/alternate/services_alt.html",
+      "filename": "services_alt.html",
+      "seo": {
+        "has_title": true,
+        "title": "AI Services - sentAIent",
+        "title_length": 23,
+        "title_optimal": false,
+        "meta_description": "Explore sentAIent's comprehensive AI services: Autonomous AI Agents, Generative Chatbots, Digital Marketing, AI Consulting, Business Consulting, and Custom Software Development.",
+        "description_length": 177,
+        "description_optimal": false,
+        "has_viewport": true
+      },
+      "accessibility": {
+        "total_images": 0,
+        "images_with_alt": 0,
+        "images_without_alt": 0,
+        "aria_labels_count": 9,
+        "has_lang": true
+      },
+      "structure": {
+        "h1_count": 1,
+        "heading_hierarchy": [
+          "h1",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h4",
+          "h4",
+          "h4",
+          "h4",
+          "h3"
+        ],
+        "total_links": 23,
+        "semantic_html": {
+          "has_header": true,
+          "has_nav": true,
+          "has_main": true,
+          "has_footer": true
+        }
+      },
+      "issues": []
+    },
+    {
+      "filepath": "/app/sentient_website_redesign_0308/pages/alternate/contact_alt.html",
+      "filename": "contact_alt.html",
+      "seo": {
+        "has_title": true,
+        "title": "Contact sentAIent - Schedule Your AI Consultation",
+        "title_length": 49,
+        "title_optimal": false,
+        "meta_description": "Contact sentAIent for AI consulting, autonomous agents, and digital transformation services. Schedule your free consultation today.",
+        "description_length": 131,
+        "description_optimal": false,
+        "has_viewport": true
+      },
+      "accessibility": {
+        "total_images": 0,
+        "images_with_alt": 0,
+        "images_without_alt": 0,
+        "aria_labels_count": 18,
+        "has_lang": true
+      },
+      "structure": {
+        "h1_count": 1,
+        "heading_hierarchy": [
+          "h1",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h4",
+          "h4"
+        ],
+        "total_links": 17,
+        "semantic_html": {
+          "has_header": true,
+          "has_nav": true,
+          "has_main": true,
+          "has_footer": true
+        }
+      },
+      "issues": []
+    },
+    {
+      "filepath": "/app/sentient_website_redesign_0308/pages/alternate/team_alt.html",
+      "filename": "team_alt.html",
+      "seo": {
+        "has_title": true,
+        "title": "Our Team - sentAIent Leadership",
+        "title_length": 31,
+        "title_optimal": false,
+        "meta_description": "Meet the sentAIent leadership team: Brian Leonard (CEO) and Greg Francis (Technical Lead). Experts in AI strategy, implementation, and innovation.",
+        "description_length": 146,
+        "description_optimal": false,
+        "has_viewport": true
+      },
+      "accessibility": {
+        "total_images": 0,
+        "images_with_alt": 0,
+        "images_without_alt": 0,
+        "aria_labels_count": 3,
+        "has_lang": true
+      },
+      "structure": {
+        "h1_count": 1,
+        "heading_hierarchy": [
+          "h1",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h3",
+          "h3"
+        ],
+        "total_links": 17,
+        "semantic_html": {
+          "has_header": true,
+          "has_nav": true,
+          "has_main": true,
+          "has_footer": true
+        }
+      },
+      "issues": []
+    }
+  ],
+  "css_files": [
+    {
+      "filepath": "/app/sentient_website_redesign_0308/styles/main.css",
+      "size_bytes": 50446,
+      "lines": 2624,
+      "media_queries": [
+        "@media (max-width: 768px)",
+        "@media (max-width: 480px)",
+        "@media (prefers-reduced-motion: reduce)",
+        "@media print",
+        "@media (max-width: 768px)",
+        "@media (min-width: 769px) and (max-width: 1199px)",
+        "@media (max-width: 768px)",
+        "@media (hover: none)",
+        "@media (max-width: 768px)"
+      ],
+      "color_usage": {
+        "#60a9ff": 21,
+        "#202733": 18,
+        "#ffffff": 3
+      },
+      "issues": [],
+      "media_query_count": 9,
+      "responsive_breakpoints": {
+        "has_mobile": true,
+        "has_tablet": false
+      }
+    }
+  ],
+  "js_files": [
+    {
+      "filepath": "/app/sentient_website_redesign_0308/scripts/tools.js",
+      "size_bytes": 22592,
+      "lines": 480,
+      "has_console_logs": true,
+      "issues": [
+        "WARNING: 1 console.log statements found (should be removed for production)"
+      ],
+      "console_log_count": 1,
+      "has_event_listeners": true
+    },
+    {
+      "filepath": "/app/sentient_website_redesign_0308/scripts/consumer-tools.js",
+      "size_bytes": 54137,
+      "lines": 1231,
+      "has_console_logs": true,
+      "issues": [
+        "WARNING: 6 console.log statements found (should be removed for production)"
+      ],
+      "console_log_count": 6,
+      "has_event_listeners": true
+    },
+    {
+      "filepath": "/app/sentient_website_redesign_0308/scripts/main.js",
+      "size_bytes": 3699,
+      "lines": 100,
+      "has_console_logs": false,
+      "issues": [],
+      "console_log_count": 0,
+      "has_event_listeners": true
+    }
+  ],
+  "summary": {
+    "total_issues": 3,
+    "critical_issues": 0,
+    "warnings": 3
+  }
+}

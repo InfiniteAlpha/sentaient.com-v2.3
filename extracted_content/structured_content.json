@@ -1,0 +1,230 @@
+{
+  "company_overview": {
+    "name": "sentAIent",
+    "tagline": "Autonomous AI Agents & Digital Employees",
+    "core_services": [
+      "Autonomous AI Agents",
+      "Generative AI Chatbots",
+      "Digital Marketing Services",
+      "AI & Business Consulting",
+      "Custom Software Development"
+    ],
+    "value_proposition": "Human augmentation, not replacement - AI handles data analysis and routine inquiries while humans focus on strategic decisions and complex relationships",
+    "philosophy": "Human-centric AI implementation with transparency, fairness, privacy, and accountability",
+    "target_industries": [
+      "Finance",
+      "Technology",
+      "Hospitality"
+    ],
+    "target_clients": [
+      "Small to mid-sized businesses",
+      "General consumers"
+    ]
+  },
+  "services": {
+    "autonomous_ai_agents": {
+      "title": "Autonomous AI Agents",
+      "description": "Deploy autonomous digital employees that automate business roles, streamline processes, and augment human teams for significant efficiency increases",
+      "benefits": [
+        "Automate repetitive tasks and workflows",
+        "Scale operations without proportional headcount increase",
+        "Measurable ROI with clear performance metrics",
+        "Seamless integration with existing systems"
+      ],
+      "use_cases": [
+        "Task automation across departments",
+        "Strategic research and analysis",
+        "Product management support",
+        "Training and onboarding assistance"
+      ]
+    },
+    "generative_ai_chatbots": {
+      "title": "Generative AI Chatbots",
+      "description": "Custom-trained AI chatbots that speak in your brand voice, providing 24/7 customer support, sales assistance, and marketing engagement",
+      "benefits": [
+        "Build brand loyalty through consistent voice",
+        "Instant customer support and lead qualification",
+        "24/7 availability across all channels",
+        "Personalized customer experiences at scale"
+      ],
+      "use_cases": [
+        "Customer service automation",
+        "Sales lead qualification and nurturing",
+        "Marketing campaign support",
+        "FAQ and support ticket resolution"
+      ]
+    },
+    "digital_marketing": {
+      "title": "Digital Marketing Services",
+      "description": "Comprehensive digital marketing solutions powered by AI insights and automation",
+      "benefits": [
+        "Data-driven campaign optimization",
+        "Content creation and curation",
+        "SEO and paid advertising management",
+        "Performance analytics and reporting"
+      ],
+      "use_cases": [
+        "Content marketing strategy",
+        "Social media management",
+        "Paid advertising campaigns",
+        "Brand building and awareness"
+      ]
+    },
+    "ai_consulting": {
+      "title": "AI & Automation Consulting",
+      "description": "Remove research and guesswork from AI integration with expert strategy design and implementation guidance",
+      "benefits": [
+        "Custom AI strategy development",
+        "Technology selection guidance",
+        "Implementation roadmap creation",
+        "ROI optimization and measurement"
+      ],
+      "use_cases": [
+        "AI readiness assessment",
+        "Digital transformation planning",
+        "Process automation identification",
+        "Change management support"
+      ]
+    },
+    "business_consulting": {
+      "title": "Business Consulting",
+      "description": "Strategic business consulting that transforms complex concepts into operational excellence",
+      "benefits": [
+        "Process optimization",
+        "Strategic planning",
+        "Operational efficiency improvements",
+        "Growth strategy development"
+      ]
+    },
+    "software_development": {
+      "title": "Custom Software Development",
+      "description": "Build tailored software solutions that meet your unique business requirements",
+      "benefits": [
+        "Custom application development",
+        "System integration",
+        "Scalable architecture design",
+        "Ongoing support and maintenance"
+      ]
+    }
+  },
+  "team": {
+    "brian_leonard": {
+      "name": "Brian Leonard",
+      "role": "CEO",
+      "focus": "AI Strategy & Innovation",
+      "expertise": [
+        "AI strategy and implementation",
+        "Autonomous agent development",
+        "Business transformation through AI",
+        "Product vision and leadership"
+      ],
+      "bio": "Brian Leonard leads sentAIent's AI strategy, focusing on developing autonomous AI agents that augment human capabilities. With deep expertise in AI implementation and business transformation, Brian guides organizations through their AI journey with a human-centric approach."
+    },
+    "greg_francis": {
+      "name": "Greg Francis",
+      "role": "Corporate Solutions",
+      "focus": "Operational Excellence",
+      "expertise": [
+        "Transforming complex AI concepts into operational reality",
+        "Corporate solution implementation",
+        "Process optimization",
+        "Strategic execution"
+      ],
+      "bio": "Greg Francis specializes in corporate solutions, transforming complex AI concepts into operational excellence. His expertise lies in bridging the gap between AI capabilities and practical business implementation, ensuring measurable results and sustainable value."
+    }
+  },
+  "use_cases_by_industry": {
+    "finance": {
+      "title": "Financial Services",
+      "challenges": [
+        "Manual data processing and analysis",
+        "Customer support scalability",
+        "Regulatory compliance complexity",
+        "Risk assessment automation"
+      ],
+      "solutions": [
+        "Automated document processing and analysis",
+        "AI-powered customer service for account queries",
+        "Compliance monitoring and reporting",
+        "Fraud detection and risk assessment"
+      ],
+      "outcomes": [
+        "Reduced processing time by 60-80%",
+        "24/7 customer support availability",
+        "Improved compliance accuracy",
+        "Faster risk identification"
+      ]
+    },
+    "technology": {
+      "title": "Technology Companies",
+      "challenges": [
+        "Product development cycle efficiency",
+        "Customer onboarding complexity",
+        "Technical support scalability",
+        "Market research and analysis"
+      ],
+      "solutions": [
+        "Automated code review and testing",
+        "AI-powered onboarding assistants",
+        "Technical support chatbots",
+        "Competitive intelligence automation"
+      ],
+      "outcomes": [
+        "Faster product iterations",
+        "Reduced onboarding time",
+        "Improved customer satisfaction",
+        "Data-driven decision making"
+      ]
+    },
+    "hospitality": {
+      "title": "Hospitality & Service",
+      "challenges": [
+        "Guest service consistency",
+        "Reservation and booking management",
+        "Staff training and efficiency",
+        "Marketing personalization"
+      ],
+      "solutions": [
+        "AI concierge for guest services",
+        "Automated booking and inquiry management",
+        "Interactive training systems",
+        "Personalized marketing campaigns"
+      ],
+      "outcomes": [
+        "Enhanced guest experience",
+        "Increased booking efficiency",
+        "Reduced training time",
+        "Higher conversion rates"
+      ]
+    }
+  },
+  "value_propositions": {
+    "for_businesses": {
+      "headline": "Transform Your Business with AI That Works for You",
+      "subheadline": "Deploy autonomous AI agents that augment your team, automate routine tasks, and deliver measurable ROI",
+      "key_benefits": [
+        "Increase efficiency by 40-60% through intelligent automation",
+        "Scale operations without proportional cost increases",
+        "Make data-driven decisions with real-time insights",
+        "Focus your team on strategic, high-value work"
+      ]
+    },
+    "for_consumers": {
+      "headline": "Experience the Future of AI-Powered Applications",
+      "subheadline": "Access cutting-edge AI tools designed for everyday use",
+      "key_benefits": [
+        "Intuitive, user-friendly interfaces",
+        "Powerful AI capabilities at your fingertips",
+        "Privacy-first approach to your data",
+        "Continuous innovation and updates"
+      ]
+    }
+  },
+  "calls_to_action": {
+    "b2b_primary": "Schedule Your AI Strategy Consultation",
+    "b2b_secondary": "Download AI Readiness Assessment",
+    "consumer_primary": "Try Our AI Apps Free",
+    "consumer_secondary": "Join the Waitlist",
+    "general": "Contact Us Today"
+  }
+}

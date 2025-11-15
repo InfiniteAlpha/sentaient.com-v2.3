@@ -1,0 +1,537 @@
+{
+  "audit_date": "2025-11-15T04:50:00+00:00",
+  "pages_analyzed": [
+    {
+      "file": "index.html",
+      "title": {
+        "text": "sentAIent - Autonomous AI Agents & Digital Solutions",
+        "length": 52,
+        "optimal": true,
+        "status": "pass"
+      },
+      "meta_description": {
+        "text": "sentAIent - Transform your business with autonomous AI agents, generative chatbots, and AI consulting. Human augmentation, not replacement.",
+        "length": 139,
+        "optimal": false,
+        "status": "pass"
+      },
+      "meta_viewport": true,
+      "heading_structure": {
+        "h1_count": 1,
+        "h1_text": [
+          "Autonomous AI Agents & Digital EmployeesTransform your business with AI that augments human capabilities. Deploy autonomous agents for task automation, strategic research, sales, customer service, and more. Serving small to mid-sized businesses in finance, technology, and hospitality.Schedule Your AI Strategy SessionExplore AI Solutions\ud83d\udcc840-60%Efficiency Gain\ud83d\udd5024/7AI Availability\ud83c\udfe23Industry Specialties\ud83d\udcb0MeasurableROI"
+        ],
+        "hierarchy": [
+          "h1",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h3",
+          "h2",
+          "h2",
+          "h2",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h2",
+          "h2"
+        ],
+        "total_headings": 40
+      },
+      "images": {
+        "total": 0,
+        "with_alt": 0,
+        "without_alt": 0
+      },
+      "links": {
+        "total": 33,
+        "internal": 15,
+        "external": 0
+      },
+      "semantic_html": {
+        "has_lang": true,
+        "has_header": true,
+        "has_nav": true,
+        "has_main": true,
+        "has_footer": true,
+        "has_article": true,
+        "has_section": true
+      },
+      "issues": [
+        "Meta description too short (139 chars). Recommend 150-160 chars."
+      ],
+      "recommendations": []
+    },
+    {
+      "file": "about_alt.html",
+      "title": {
+        "text": "About sentAIent - Human-Centric AI Solutions",
+        "length": 44,
+        "optimal": false,
+        "status": "pass"
+      },
+      "meta_description": {
+        "text": "Learn about sentAIent's mission to transform businesses through human-centric AI implementation. Autonomous agents that augment, not replace, human capabilities.",
+        "length": 161,
+        "optimal": false,
+        "status": "pass"
+      },
+      "meta_viewport": true,
+      "heading_structure": {
+        "h1_count": 1,
+        "h1_text": [
+          "About sentAIentHuman Augmentation, Not Replacement"
+        ],
+        "hierarchy": [
+          "h1",
+          "h2",
+          "h2",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h2",
+          "h3",
+          "h4",
+          "h4"
+        ],
+        "total_headings": 18
+      },
+      "images": {
+        "total": 0,
+        "with_alt": 0,
+        "without_alt": 0
+      },
+      "links": {
+        "total": 17,
+        "internal": 1,
+        "external": 0
+      },
+      "semantic_html": {
+        "has_lang": true,
+        "has_header": true,
+        "has_nav": true,
+        "has_main": true,
+        "has_footer": true,
+        "has_article": true,
+        "has_section": true
+      },
+      "issues": [
+        "Title too short (44 chars). Recommend 50-60 chars.",
+        "Meta description too long (161 chars). Recommend 150-160 chars."
+      ],
+      "recommendations": []
+    },
+    {
+      "file": "services_alt.html",
+      "title": {
+        "text": "AI Services - sentAIent",
+        "length": 23,
+        "optimal": false,
+        "status": "warning"
+      },
+      "meta_description": {
+        "text": "Explore sentAIent's comprehensive AI services: Autonomous AI Agents, Generative Chatbots, Digital Marketing, AI Consulting, Business Consulting, and Custom Software Development.",
+        "length": 177,
+        "optimal": false,
+        "status": "warning"
+      },
+      "meta_viewport": true,
+      "heading_structure": {
+        "h1_count": 1,
+        "h1_text": [
+          "AI Solutions That Transform Your BusinessComprehensive services from autonomous agents to custom software development\ud83e\udd16"
+        ],
+        "hierarchy": [
+          "h1",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h4",
+          "h4",
+          "h4",
+          "h4",
+          "h3",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h4",
+          "h4",
+          "h4",
+          "h4",
+          "h3",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h4",
+          "h4",
+          "h4",
+          "h4",
+          "h3",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h4",
+          "h4",
+          "h4",
+          "h4",
+          "h3",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h4",
+          "h4"
+        ],
+        "total_headings": 51
+      },
+      "images": {
+        "total": 0,
+        "with_alt": 0,
+        "without_alt": 0
+      },
+      "links": {
+        "total": 23,
+        "internal": 1,
+        "external": 0
+      },
+      "semantic_html": {
+        "has_lang": true,
+        "has_header": true,
+        "has_nav": true,
+        "has_main": true,
+        "has_footer": true,
+        "has_article": true,
+        "has_section": true
+      },
+      "issues": [
+        "Title too short (23 chars). Recommend 50-60 chars.",
+        "Meta description too long (177 chars). Recommend 150-160 chars."
+      ],
+      "recommendations": []
+    },
+    {
+      "file": "team_alt.html",
+      "title": {
+        "text": "Our Team - sentAIent Leadership",
+        "length": 31,
+        "optimal": false,
+        "status": "pass"
+      },
+      "meta_description": {
+        "text": "Meet the sentAIent leadership team: Brian Leonard (CEO) and Greg Francis (Technical Lead). Experts in AI strategy, implementation, and innovation.",
+        "length": 146,
+        "optimal": false,
+        "status": "pass"
+      },
+      "meta_viewport": true,
+      "heading_structure": {
+        "h1_count": 1,
+        "h1_text": [
+          "Meet Our Leadership TeamExperts in AI strategy, implementation, and innovationBL"
+        ],
+        "hierarchy": [
+          "h1",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h4",
+          "h4"
+        ],
+        "total_headings": 15
+      },
+      "images": {
+        "total": 0,
+        "with_alt": 0,
+        "without_alt": 0
+      },
+      "links": {
+        "total": 17,
+        "internal": 1,
+        "external": 0
+      },
+      "semantic_html": {
+        "has_lang": true,
+        "has_header": true,
+        "has_nav": true,
+        "has_main": true,
+        "has_footer": true,
+        "has_article": true,
+        "has_section": true
+      },
+      "issues": [
+        "Title too short (31 chars). Recommend 50-60 chars.",
+        "Meta description too short (146 chars). Recommend 150-160 chars."
+      ],
+      "recommendations": []
+    },
+    {
+      "file": "history_alt.html",
+      "title": {
+        "text": "Our History - sentAIent Journey",
+        "length": 31,
+        "optimal": false,
+        "status": "pass"
+      },
+      "meta_description": {
+        "text": "The sentAIent story: From vision to reality, building human-centric AI solutions that transform businesses.",
+        "length": 107,
+        "optimal": false,
+        "status": "warning"
+      },
+      "meta_viewport": true,
+      "heading_structure": {
+        "h1_count": 1,
+        "h1_text": [
+          "Our JourneyBuilding the future of human-AI collaboration"
+        ],
+        "hierarchy": [
+          "h1",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h4",
+          "h4"
+        ],
+        "total_headings": 18
+      },
+      "images": {
+        "total": 0,
+        "with_alt": 0,
+        "without_alt": 0
+      },
+      "links": {
+        "total": 17,
+        "internal": 1,
+        "external": 0
+      },
+      "semantic_html": {
+        "has_lang": true,
+        "has_header": true,
+        "has_nav": true,
+        "has_main": true,
+        "has_footer": true,
+        "has_article": true,
+        "has_section": true
+      },
+      "issues": [
+        "Title too short (31 chars). Recommend 50-60 chars.",
+        "Meta description too short (107 chars). Recommend 150-160 chars."
+      ],
+      "recommendations": []
+    },
+    {
+      "file": "contact_alt.html",
+      "title": {
+        "text": "Contact sentAIent - Schedule Your AI Consultation",
+        "length": 49,
+        "optimal": false,
+        "status": "pass"
+      },
+      "meta_description": {
+        "text": "Contact sentAIent for AI consulting, autonomous agents, and digital transformation services. Schedule your free consultation today.",
+        "length": 131,
+        "optimal": false,
+        "status": "pass"
+      },
+      "meta_viewport": true,
+      "heading_structure": {
+        "h1_count": 1,
+        "h1_text": [
+          "Let's Transform Your Business TogetherSchedule a free consultation to discuss your AI needs"
+        ],
+        "hierarchy": [
+          "h1",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h4",
+          "h4",
+          "h2"
+        ],
+        "total_headings": 11
+      },
+      "images": {
+        "total": 0,
+        "with_alt": 0,
+        "without_alt": 0
+      },
+      "links": {
+        "total": 17,
+        "internal": 2,
+        "external": 0
+      },
+      "semantic_html": {
+        "has_lang": true,
+        "has_header": true,
+        "has_nav": true,
+        "has_main": true,
+        "has_footer": true,
+        "has_article": false,
+        "has_section": true
+      },
+      "issues": [
+        "Title too short (49 chars). Recommend 50-60 chars.",
+        "Meta description too short (131 chars). Recommend 150-160 chars."
+      ],
+      "recommendations": []
+    },
+    {
+      "file": "pricing_alt.html",
+      "title": {
+        "text": "Pricing & Solutions - sentAIent",
+        "length": 31,
+        "optimal": false,
+        "status": "pass"
+      },
+      "meta_description": {
+        "text": "sentAIent pricing and service packages. Flexible solutions from project-based to enterprise retainers. Get ROI-focused AI implementations.",
+        "length": 138,
+        "optimal": false,
+        "status": "pass"
+      },
+      "meta_viewport": true,
+      "heading_structure": {
+        "h1_count": 1,
+        "h1_text": [
+          "Pricing & SolutionsFlexible packages designed to deliver measurable ROI"
+        ],
+        "hierarchy": [
+          "h1",
+          "h2",
+          "h2",
+          "h3",
+          "h4",
+          "h4",
+          "h3",
+          "h4",
+          "h4",
+          "h3",
+          "h4",
+          "h4",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h2",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h3",
+          "h2",
+          "h3",
+          "h4",
+          "h4",
+          "h2"
+        ],
+        "total_headings": 29
+      },
+      "images": {
+        "total": 0,
+        "with_alt": 0,
+        "without_alt": 0
+      },
+      "links": {
+        "total": 20,
+        "internal": 1,
+        "external": 0
+      },
+      "semantic_html": {
+        "has_lang": true,
+        "has_header": true,
+        "has_nav": true,
+        "has_main": true,
+        "has_footer": true,
+        "has_article": true,
+        "has_section": true
+      },
+      "issues": [
+        "Title too short (31 chars). Recommend 50-60 chars.",
+        "Meta description too short (138 chars). Recommend 150-160 chars."
+      ],
+      "recommendations": []
+    }
+  ],
+  "summary": {
+    "total_pages": 7,
+    "pages_with_optimal_titles": 1,
+    "pages_with_optimal_descriptions": 0,
+    "pages_with_single_h1": 7,
+    "total_issues": 13,
+    "critical_issues": 0
+  }
+}

@@ -1,0 +1,31 @@
+sentAIent Website Production Package - File Manifest
+============================================================
+
+  README.md (1,125 bytes)
+  VERSION.txt (537 bytes)
+  index.html (35,608 bytes)
+  styles/
+    main.css (50,446 bytes)
+    main.min.css (40,562 bytes)
+  pages/
+    pages/alternate/
+      about_alt.html (11,010 bytes)
+      contact_alt.html (19,563 bytes)
+      history_alt.html (13,239 bytes)
+      pricing_alt.html (19,768 bytes)
+      services_alt.html (23,279 bytes)
+      team_alt.html (11,466 bytes)
+  images/
+  docs/
+    ACCESSIBILITY_AUDIT.md (4,207 bytes)
+    CODE_QUALITY_REPORT.md (1,502 bytes)
+    PERFORMANCE_REPORT.md (3,107 bytes)
+    RESPONSIVE_TESTING_REPORT.md (4,514 bytes)
+    SEO_VALIDATION_REPORT.md (8,780 bytes)
+  scripts/
+    consumer-tools.js (53,979 bytes)
+    consumer-tools.min.js (36,922 bytes)
+    main.js (3,699 bytes)
+    main.min.js (2,630 bytes)
+    tools.js (22,545 bytes)
+    tools.min.js (17,408 bytes)

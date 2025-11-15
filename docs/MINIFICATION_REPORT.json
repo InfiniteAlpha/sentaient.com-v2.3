@@ -1,0 +1,37 @@
+{
+  "minification_date": "2025-11-15T04:51:00+00:00",
+  "files_minified": 4,
+  "total_original_bytes": 130669,
+  "total_minified_bytes": 97522,
+  "total_reduction_percentage": 25.367149056011755,
+  "files": [
+    {
+      "filename": "main.css",
+      "type": "css",
+      "original_size": 50446,
+      "minified_size": 40562,
+      "reduction_percentage": 19.59322840264838
+    },
+    {
+      "filename": "main.js",
+      "type": "js",
+      "original_size": 3699,
+      "minified_size": 2630,
+      "reduction_percentage": 28.89970262233036
+    },
+    {
+      "filename": "tools.js",
+      "type": "js",
+      "original_size": 22545,
+      "minified_size": 17408,
+      "reduction_percentage": 22.785540031049013
+    },
+    {
+      "filename": "consumer-tools.js",
+      "type": "js",
+      "original_size": 53979,
+      "minified_size": 36922,
+      "reduction_percentage": 31.599325663684024
+    }
+  ]
+}

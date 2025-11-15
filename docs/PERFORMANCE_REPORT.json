@@ -1,0 +1,179 @@
+{
+  "report_date": "2025-11-15T04:51:30+00:00",
+  "performance_metrics": {
+    "target_lcp": "< 2.5 seconds",
+    "target_fcp": "< 1.8 seconds",
+    "target_tti": "< 3.8 seconds",
+    "target_cls": "< 0.1",
+    "target_fid": "< 100ms"
+  },
+  "asset_analysis": {
+    "html": [
+      {
+        "file": "index.html",
+        "size_bytes": 35608,
+        "size_kb": 34.8
+      },
+      {
+        "file": "pages/alternate/pricing_alt.html",
+        "size_bytes": 19768,
+        "size_kb": 19.3
+      },
+      {
+        "file": "pages/alternate/about_alt.html",
+        "size_bytes": 11010,
+        "size_kb": 10.8
+      },
+      {
+        "file": "pages/alternate/history_alt.html",
+        "size_bytes": 13239,
+        "size_kb": 12.9
+      },
+      {
+        "file": "pages/alternate/services_alt.html",
+        "size_bytes": 23279,
+        "size_kb": 22.7
+      },
+      {
+        "file": "pages/alternate/contact_alt.html",
+        "size_bytes": 19563,
+        "size_kb": 19.1
+      },
+      {
+        "file": "pages/alternate/team_alt.html",
+        "size_bytes": 11466,
+        "size_kb": 11.2
+      }
+    ],
+    "css": [
+      {
+        "file": "main.css",
+        "size_bytes": 50446,
+        "size_kb": 49.3,
+        "minified": false
+      },
+      {
+        "file": "main.min.css",
+        "size_bytes": 40562,
+        "size_kb": 39.6,
+        "minified": true
+      }
+    ],
+    "javascript": [
+      {
+        "file": "tools.js",
+        "size_bytes": 22545,
+        "size_kb": 22.0,
+        "minified": false
+      },
+      {
+        "file": "consumer-tools.js",
+        "size_bytes": 53979,
+        "size_kb": 52.7,
+        "minified": false
+      },
+      {
+        "file": "main.js",
+        "size_bytes": 3699,
+        "size_kb": 3.6,
+        "minified": false
+      },
+      {
+        "file": "consumer-tools.min.js",
+        "size_bytes": 36922,
+        "size_kb": 36.1,
+        "minified": true
+      },
+      {
+        "file": "main.min.js",
+        "size_bytes": 2630,
+        "size_kb": 2.6,
+        "minified": true
+      },
+      {
+        "file": "tools.min.js",
+        "size_bytes": 17408,
+        "size_kb": 17.0,
+        "minified": true
+      }
+    ]
+  },
+  "optimization_summary": {
+    "minification_completed": true,
+    "lazy_loading_implemented": false,
+    "image_optimization": "n/a",
+    "cdn_ready": true,
+    "compression_recommended": "gzip/brotli"
+  },
+  "page_load_estimates": [
+    {
+      "page": "index.html",
+      "total_size_kb": 77.0,
+      "estimated_load_3g": "1.23s",
+      "estimated_load_4g": "0.031s",
+      "estimated_lcp_status": "pass"
+    },
+    {
+      "page": "pages/alternate/pricing_alt.html",
+      "total_size_kb": 61.5,
+      "estimated_load_3g": "0.98s",
+      "estimated_load_4g": "0.025s",
+      "estimated_lcp_status": "pass"
+    },
+    {
+      "page": "pages/alternate/about_alt.html",
+      "total_size_kb": 52.9,
+      "estimated_load_3g": "0.85s",
+      "estimated_load_4g": "0.021s",
+      "estimated_lcp_status": "pass"
+    },
+    {
+      "page": "pages/alternate/history_alt.html",
+      "total_size_kb": 55.1,
+      "estimated_load_3g": "0.88s",
+      "estimated_load_4g": "0.022s",
+      "estimated_lcp_status": "pass"
+    },
+    {
+      "page": "pages/alternate/services_alt.html",
+      "total_size_kb": 64.9,
+      "estimated_load_3g": "1.04s",
+      "estimated_load_4g": "0.026s",
+      "estimated_lcp_status": "pass"
+    },
+    {
+      "page": "pages/alternate/contact_alt.html",
+      "total_size_kb": 61.3,
+      "estimated_load_3g": "0.98s",
+      "estimated_load_4g": "0.025s",
+      "estimated_lcp_status": "pass"
+    },
+    {
+      "page": "pages/alternate/team_alt.html",
+      "total_size_kb": 53.4,
+      "estimated_load_3g": "0.85s",
+      "estimated_load_4g": "0.021s",
+      "estimated_lcp_status": "pass"
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "high",
+      "category": "Compression",
+      "issue": "Static assets not compressed",
+      "action": "Enable gzip/brotli compression on web server for 60-80% size reduction"
+    },
+    {
+      "priority": "low",
+      "category": "Caching",
+      "issue": "Cache headers not set",
+      "action": "Configure cache headers: CSS/JS (1 year), HTML (1 hour)"
+    },
+    {
+      "priority": "low",
+      "category": "CDN",
+      "issue": "No CDN configured",
+      "action": "Deploy static assets to CDN for improved global performance"
+    }
+  ]
+}

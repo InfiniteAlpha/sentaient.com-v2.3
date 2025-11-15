@@ -1,0 +1,114 @@
+{
+  "review_date": "2025-11-15T04:52:30+00:00",
+  "html_files": [
+    {
+      "file": "index.html",
+      "issues": [
+        "HEAD tag mismatch"
+      ],
+      "status": "warning"
+    },
+    {
+      "file": "pages/alternate/about_alt.html",
+      "issues": [
+        "HEAD tag mismatch"
+      ],
+      "status": "warning"
+    },
+    {
+      "file": "pages/alternate/services_alt.html",
+      "issues": [
+        "HEAD tag mismatch"
+      ],
+      "status": "warning"
+    },
+    {
+      "file": "pages/alternate/team_alt.html",
+      "issues": [
+        "HEAD tag mismatch"
+      ],
+      "status": "warning"
+    },
+    {
+      "file": "pages/alternate/history_alt.html",
+      "issues": [
+        "HEAD tag mismatch"
+      ],
+      "status": "warning"
+    },
+    {
+      "file": "pages/alternate/contact_alt.html",
+      "issues": [
+        "HEAD tag mismatch"
+      ],
+      "status": "warning"
+    },
+    {
+      "file": "pages/alternate/pricing_alt.html",
+      "issues": [
+        "HEAD tag mismatch"
+      ],
+      "status": "warning"
+    }
+  ],
+  "css_files": [
+    {
+      "file": "main.css",
+      "issues": [],
+      "stats": {
+        "total_lines": 2624,
+        "total_rules": 448,
+        "comments": 34,
+        "media_queries": 9,
+        "important_usage": 3,
+        "unique_selectors": 257
+      },
+      "status": "pass"
+    }
+  ],
+  "js_files": [
+    {
+      "file": "main.js",
+      "issues": [],
+      "stats": {
+        "total_lines": 100,
+        "functions": 0,
+        "arrow_functions": 5,
+        "event_listeners": 7,
+        "console_logs": 0
+      },
+      "status": "pass"
+    },
+    {
+      "file": "tools.js",
+      "issues": [],
+      "stats": {
+        "total_lines": 480,
+        "functions": 0,
+        "arrow_functions": 21,
+        "event_listeners": 11,
+        "console_logs": 0
+      },
+      "status": "pass"
+    },
+    {
+      "file": "consumer-tools.js",
+      "issues": [],
+      "stats": {
+        "total_lines": 1231,
+        "functions": 0,
+        "arrow_functions": 92,
+        "event_listeners": 29,
+        "console_logs": 0
+      },
+      "status": "pass"
+    }
+  ],
+  "summary": {
+    "total_files_reviewed": 11,
+    "total_issues": 7,
+    "critical_issues": 0,
+    "warnings": 0,
+    "pass": true
+  }
+}
